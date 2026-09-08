@@ -6,6 +6,7 @@ class Main {
         Main.pair(arr);
         System.out.println();
         pair(arr2);
+        
     }
 
    public static void pair(int[] arr){
